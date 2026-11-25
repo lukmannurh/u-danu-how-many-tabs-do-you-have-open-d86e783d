@@ -26,5 +26,7 @@
 - Output content verified: exactly `1`, no newline.
 
 ## Submission
-- Not committed, pushed, bundled, checked, or submitted (parent does that).
-- Claim code: none yet — to be added only after submission.
+- Submission: 01a210a7-c5ed-77d4-b779-8f4a3b7cd8fb
+- Commit: 2f86db198807c27cd6e7253c8f9d2bb663ab80d9
+- Stage: submitted (Round 1 validity passed, grading queued)
+- Claim code: AF-GFW6R-40FVZ-69XXW-7NDVY
